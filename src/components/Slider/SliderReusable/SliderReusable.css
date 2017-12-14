@@ -1,0 +1,116 @@
+.SliderReusable .bar {
+    width: 80vw;
+    height: 150px;
+    /* border-bottom: 10px solid var(--white); */
+    background-color:var(--white);
+    margin: 0 auto;
+}
+
+.SliderReusable .slider_bar {
+    width: 80vw;
+    height: 20px;
+    background-color:var(--white);
+    margin: 0 auto;
+}
+
+.SliderReusable .bar_block {
+    width: calc((80vw / 10));
+    height: 150px;
+    /* border: 3px solid var(--white); */
+    display: inline-block;
+}
+
+.SliderReusable .intern {
+    background-color: var(--black);
+    opacity: 0.1;
+}
+
+.SliderReusable .junior {
+    background-color: var(--blue);
+    opacity: 0.1;
+}
+
+.SliderReusable .junior {
+    background-color: var(--blue);
+}
+.SliderReusable .junior.low {
+    opacity: 0.1;
+}
+.SliderReusable .junior.mid {
+    opacity: 0.15;
+}
+.SliderReusable .junior.high {
+    opacity: 0.2;
+}
+
+.SliderReusable .mid_level {
+    background-color: var(--blue);
+}
+.SliderReusable .mid_level.low {
+    opacity: 0.3;
+}
+.SliderReusable .mid_level.mid {
+    opacity: 0.4;
+}
+.SliderReusable .mid_level.high {
+    opacity: 0.5;
+}
+
+.SliderReusable .senior {
+    background-color: var(--blue);
+}
+.SliderReusable .senior.low {
+    opacity: 0.6;
+}
+.SliderReusable .senior.mid {
+    opacity: 0.75;
+}
+.SliderReusable .senior.high {
+    opacity: 1;
+}
+
+/* .SliderReusable .slider {
+    height: 15px;
+    width: 10px;
+    background-color: var(--black);
+} */
+
+.SliderReusable input {
+    width: calc(80vw);
+    margin: 0;
+}
+
+/* The slider itself */
+.slider {
+    -webkit-appearance: none;  /* Override default CSS styles */
+    appearance: none;
+    width: 100%; /* Full-width */
+    height: 15px; /* Specified height */
+    background: var(--white); /* Grey background */
+    outline: none; /* Remove outline */
+    opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+    -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+    transition: opacity .2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+    opacity: 1; /* Fully shown on mouse-over */
+}
+
+/* The slider handle (use webkit (Chrome, Opera, Safari, Edge) and moz (Firefox) to override default look) */ 
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Override default look */
+    appearance: none;
+    width: calc((80vw / 10)); /* Set a specific slider handle width */
+    height: 10px; /* Slider handle height */
+    background: var(--black); /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}
+
+.slider::-moz-range-thumb {
+    width: 25px; /* Set a specific slider handle width */
+    height: 25px; /* Slider handle height */
+    background: var(--black); /* Green background */
+    cursor: pointer; /* Cursor on hover */
+}

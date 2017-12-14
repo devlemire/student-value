@@ -1,242 +1,202 @@
 {
     "react": {
-        "intern": [
-            {
+        "intern": {
+            "none": {
                 "value": 500,
-                "sub_level": "",
                 "statement": "Very basic understanding of React and ability to build an app. Productive 3 hours a day."
             }
-        ],
-        "Junior Dev": [
-            {
+        },
+        "junior": {
+            "low":{
                 "value": 900,
-                "sub_level": "Low-Level",
                 "statement": "Basic understanding of React and abilities. Productive 5 hours a day."
             },
-            {
+            "mid": {
                 "value": 1000,
-                "sub_level": "Mid-Level",
                 "statement": "Basic understanding of React and abilities; can build a component. Productive 5 hours a day."
             },
-            {
+            "high": {
                 "value": 1100,
-                "sub_level": "High-Level",
                 "statement": "Basic understanding of React and abilities; can build an app. Productive 5 hours a day."
             }
-        ],
-        "Mid-Level Dev": [
-            {
+        },
+        "mid_level": {
+            "low": {
                 "value": 2800,
-                "sub_level": "Low-Level",
                 "statement": "Mid-Level understanding of React and abilities; can build an app. Productive 7 hours a day."
             },
-            {
+            "mid": {
                 "value": 3000,
-                "sub_level": "Mid-Level",
                 "statement": "Mid-Level understanding of React and abilities; can build & maintain an app. Productive 7 hours a day."
             },
-            {
+            "high":{
                 "value": 3200,
-                "sub_level": "High-Level",
                 "statement": "Mid-Level understanding of React and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
             }
-        ],
-        "Senior Dev": [
-            {
+        },
+        "senior": {
+            "low": {
                 "value": 6800,
-                "sub_level": "Low-Level",
                 "statement": "Senior understanding of React and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
             },
-            {
+            "mid": {
                 "value": 7000,
-                "sub_level": "Mid-Level",
                 "statement": "Senior understanding of React and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
             },
-            {
+            "high":{
                 "value": 7200,
-                "sub_level": "High-Level",
                 "statement": "Senior understanding of React and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
             }
-        ]
+       }
     },
     "node": {
-        "intern": [
-            {
+        "intern": {
+            "none": {
                 "value": 500,
-                "sub_level": "",
                 "statement": "Very basic understanding of Node.js and ability to build an app. Productive 3 hours a day."
             }
-        ],
-        "Junior Dev": [
-            {
+        },
+        "junior": {
+            "low": {
                 "value": 900,
-                "sub_level": "Low-Level",
                 "statement": "Basic understanding of Node.js and abilities. Productive 5 hours a day."
             },
-            {
+            "mid": {
                 "value": 1000,
-                "sub_level": "Mid-Level",
                 "statement": "Basic understanding of Node.js and abilities; can build a component. Productive 5 hours a day."
             },
-            {
+            "high":{
                 "value": 1100,
-                "sub_level": "High-Level",
                 "statement": "Basic understanding of Node.js and abilities; can build an app. Productive 5 hours a day."
             }
-        ],
-        "Mid-Level Dev": [
-            {
+        },
+        "mid_level": {
+            "low": {
                 "value": 2800,
-                "sub_level": "Low-Level",
                 "statement": "Mid-Level understanding of Node.js and abilities; can build an app. Productive 7 hours a day."
             },
-            {
+            "mid": {
                 "value": 3000,
-                "sub_level": "Mid-Level",
                 "statement": "Mid-Level understanding of Node.js and abilities; can build & maintain an app. Productive 7 hours a day."
             },
-            {
+            "high":{
                 "value": 3200,
-                "sub_level": "High-Level",
                 "statement": "Mid-Level understanding of Node.js and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
             }
-        ],
-        "Senior Dev": [
-            {
+        },
+        "senior": {
+            "low": {
                 "value": 6800,
-                "sub_level": "Low-Level",
                 "statement": "Senior understanding of Node.js and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
             },
-            {
+            "mid": {
                 "value": 7000,
-                "sub_level": "Mid-Level",
                 "statement": "Senior understanding of Node.js and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
             },
-            {
+            "high":{
                 "value": 7200,
-                "sub_level": "High-Level",
                 "statement": "Senior understanding of Node.js and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
             }
-        ]
+       }
     },
     "css": {
-        "intern": [
-            {
+        "intern": {
+            "none": {
                 "value": 500,
-                "sub_level": "",
                 "statement": "Very basic understanding of CSS and ability to build an app. Productive 3 hours a day."
             }
-        ],
-        "Junior Dev": [
-            {
+        },
+        "junior": {
+            "low": {
                 "value": 900,
-                "sub_level": "Low-Level",
                 "statement": "Basic understanding of CSS and abilities. Productive 5 hours a day."
             },
-            {
+            "mid": {
                 "value": 1000,
-                "sub_level": "Mid-Level",
                 "statement": "Basic understanding of CSS and abilities; can build a component. Productive 5 hours a day."
             },
-            {
+            "high":{
                 "value": 1100,
-                "sub_level": "High-Level",
                 "statement": "Basic understanding of CSS and abilities; can build an app. Productive 5 hours a day."
             }
-        ],
-        "Mid-Level Dev": [
-            {
+        },
+        "mid_level": {
+            "low": {
                 "value": 2800,
-                "sub_level": "Low-Level",
                 "statement": "Mid-Level understanding of CSS and abilities; can build an app. Productive 7 hours a day."
             },
-            {
+            "mid": {
                 "value": 3000,
-                "sub_level": "Mid-Level",
                 "statement": "Mid-Level understanding of CSS and abilities; can build & maintain an app. Productive 7 hours a day."
             },
-            {
+            "high":{
                 "value": 3200,
-                "sub_level": "High-Level",
                 "statement": "Mid-Level understanding of CSS and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
             }
-        ],
-        "Senior Dev": [
-            {
+        },
+        "senior": {
+            "low": {
                 "value": 6800,
-                "sub_level": "Low-Level",
                 "statement": "Senior understanding of CSS and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
             },
-            {
+            "mid": {
                 "value": 7000,
-                "sub_level": "Mid-Level",
                 "statement": "Senior understanding of CSS and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
             },
-            {
+            "high":{
                 "value": 7200,
-                "sub_level": "High-Level",
                 "statement": "Senior understanding of CSS and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
             }
-        ]
+       }
     },
     "angular": {
-        "intern": [
-            {
+        "intern": {
+            "none": {
                 "value": 500,
-                "sub_level": "",
                 "statement": "Very basic understanding of Angular and ability to build an app. Productive 3 hours a day."
             }
-        ],
-        "Junior Dev": [
-            {
+        },
+        "junior": {
+            "low": {
                 "value": 900,
-                "sub_level": "Low-Level",
                 "statement": "Basic understanding of Angular and abilities. Productive 5 hours a day."
             },
-            {
+            "mid": {
                 "value": 1000,
-                "sub_level": "Mid-Level",
                 "statement": "Basic understanding of Angular and abilities; can build a component. Productive 5 hours a day."
             },
-            {
+            "high":{
                 "value": 1100,
-                "sub_level": "High-Level",
                 "statement": "Basic understanding of Angular and abilities; can build an app. Productive 5 hours a day."
             }
-        ],
-        "Mid-Level Dev": [
-            {
+        },
+        "mid_level": {
+            "low": {
                 "value": 2800,
-                "sub_level": "Low-Level",
                 "statement": "Mid-Level understanding of Angular and abilities; can build an app. Productive 7 hours a day."
             },
-            {
+            "mid": {
                 "value": 3000,
-                "sub_level": "Mid-Level",
                 "statement": "Mid-Level understanding of Angular and abilities; can build & maintain an app. Productive 7 hours a day."
             },
-            {
+            "high":{
                 "value": 3200,
-                "sub_level": "High-Level",
                 "statement": "Mid-Level understanding of Angular and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
             }
-        ],
-        "Senior Dev": [
-            {
+        },
+        "senior": {
+            "low": {
                 "value": 6800,
-                "sub_level": "Low-Level",
                 "statement": "Senior understanding of Angular and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
             },
-            {
+            "mid": {
                 "value": 7000,
-                "sub_level": "Mid-Level",
                 "statement": "Senior understanding of Angular and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
             },
-            {
+            "high":{
                 "value": 7200,
-                "sub_level": "High-Level",
                 "statement": "Senior understanding of Angular and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
             }
-        ]
+       }
     }
 }

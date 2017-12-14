@@ -1,0 +1,31 @@
+:root {
+  --blue: #34ACE0;
+  --white: #eee;
+  --sans: 'Open Sans', sans-serif;
+}
+
+#Slider {
+    min-height: 100vw;
+    background-color: var(--white);
+    padding: 50px;
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: center; */
+}
+#Slider .top_title {
+    font-family: var(--sans);
+    color: var(--black);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 2rem;
+}
+
+#Slider .value_total {
+    font-family: var(--sans);
+    color: var(--black);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+}
