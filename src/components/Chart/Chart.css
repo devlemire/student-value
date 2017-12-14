@@ -1,0 +1,91 @@
+.Topic__parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.row-0 {
+  display: flex;
+}
+
+.cell-empty {
+  width: 125px;
+}
+
+.cell-topic {
+  width: 125px;
+  height: 125px;
+  box-sizing: border-box;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-bottom: none;
+  border-right: none;
+}
+
+.cell-level {
+  width: 250px;
+  border: 1px solid black;
+  border-right: none;
+  box-sizing: border-box;
+  border-bottom: none;
+}
+
+.cell-details {
+  width: 250px;
+  height: 125px;
+  box-sizing: border-box;
+  padding: 10px;
+  border-top: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  border: 1px solid black;
+  border-bottom: none;
+  border-right: none;
+  overflow: auto;
+  cursor: pointer;
+  position: relative;
+  z-index: 1;
+}
+
+.cell-right-end {
+  border-right: 1px solid black;
+}
+
+.cell-bottom-end {
+  border-bottom: 1px solid black;
+}
+
+#cell-bottom-end {
+  border-bottom: 1px solid black;
+}
+
+.row-dynamic {
+  display: flex;
+}
+
+.cell-selected-mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: green;
+  z-index: 0;
+  opacity: 0.4;
+}
+
+.Chart__parent {
+  position: relative;
+}
+
+.Value__parent {
+  position: absolute;
+  top: 0;
+  right: 200px;
+}
