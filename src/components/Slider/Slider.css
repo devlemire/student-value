@@ -29,3 +29,11 @@
     margin-bottom: 20px;
     font-size: 1.5rem;
 }
+
+#Slider header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    background-color: var(--white);
+    z-index: 3;
+}

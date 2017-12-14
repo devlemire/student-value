@@ -29,11 +29,17 @@ export default class Tech extends Component {
 
     changeLevel(val){
         let level = this.state.dictionary[`${val}`].split('|')
+        let prevValue = 0
+        if(this.state.level){
+            prevValue = this.props.tech[this.state.level][this.state.subLevel]["value"]
+        }
         this.setState({
             level: level[0],
             subLevel: level[1],
             statement: this.props.tech[level[0]][level[1]]["statement"]
-        }, () => console.log(this.state))
+        })
+        this.props.changeVal(prevValue, this.props.tech[level[0]][level[1]]["value"])
+
     }
 
     render(){

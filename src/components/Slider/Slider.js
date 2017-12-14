@@ -8,10 +8,17 @@ export default class Slider extends Component {
     constructor() {
         super();
         this.state = {
-            value: 0
+            value: 0,
+            dataKeys: []
         }
 
         this.changeValue = this.changeValue.bind(this)
+    }
+
+    componentWillMount() {
+        this.setState({
+            dataKeys: Object.keys(data)
+        })
     }
 
     changeValue(previousVal, newVal){
@@ -23,9 +30,15 @@ export default class Slider extends Component {
     render(){
         return(
             <div id="Slider">
-                <h1 className="top_title">Student Value</h1>
-                <h2 className="value_total">${this.state.value}</h2>
-                <Tech tech={data.react} techName={Object.keys(data)[3]} changeVal={this.changeValue}/>
+                <header>
+                    <h1 className="top_title">Student Value</h1>
+                    <h2 className="value_total">${this.state.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")}</h2>
+                </header>
+                {this.state.dataKeys.map(e => [
+                    <Tech tech={data[e]} 
+                          techName={e} 
+                          changeVal={this.changeValue}/>
+                ])} 
             </div>
         )
     }

@@ -30,9 +30,7 @@ export default class SliderReusable extends Component {
                     <div className="bar_block senior high"/>
                 </div>
                 <div className="slider_bar">
-                    {/* <div className="slider"/> */}
                     <input type="range" list="tickmarks" onChange={(e) => this.props.changeLevel(e.target.value)} className="slider" min="0" max="126" step="14"/>
-                    
                 </div>
             </div>
         )

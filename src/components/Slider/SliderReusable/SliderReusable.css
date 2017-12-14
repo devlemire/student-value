@@ -69,16 +69,21 @@
     opacity: 1;
 }
 
-/* .SliderReusable .slider {
-    height: 15px;
-    width: 10px;
-    background-color: var(--black);
-} */
-
 .SliderReusable input {
     width: calc(80vw);
     margin: 0;
 }
+
+
+
+
+
+/* 
+ * Following is from: 
+ * https://www.w3schools.com/howto/howto_js_rangeslider.asp
+ *
+ * I changed the colors/widths myself to match!
+ */
 
 /* The slider itself */
 .slider {
