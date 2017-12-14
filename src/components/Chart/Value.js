@@ -3,7 +3,7 @@ import React from 'react';
 export default ({ value }) => {
   return (
     <section className="Value__parent">
-      <span>${ value }</span>
+      <h1>${ value }</h1>
     </section>
   )
 }

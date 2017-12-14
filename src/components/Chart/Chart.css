@@ -16,7 +16,7 @@
 
 .cell-topic {
   width: 125px;
-  height: 125px;
+  height: 175px;
   box-sizing: border-box;
   padding: 5px;
   display: flex;
@@ -37,7 +37,7 @@
 
 .cell-details {
   width: 250px;
-  height: 125px;
+  height: 175px;
   box-sizing: border-box;
   padding: 10px;
   border-top: 0px;
@@ -80,12 +80,8 @@
   opacity: 0.4;
 }
 
-.Chart__parent {
-  position: relative;
-}
-
 .Value__parent {
-  position: absolute;
-  top: 0;
-  right: 200px;
+  position: fixed;
+  top: 50px;
+  right: 250px;
 }
