@@ -3,49 +3,49 @@
         "intern": {
             "none": {
                 "value": 500,
-                "statement": "Very basic understanding of React and ability to build an app. Productive 3 hours a day."
+                "statement": "Very basic understanding of React and ability to build an app. |Productive 3 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "junior": {
             "low":{
                 "value": 900,
-                "statement": "Basic understanding of React and abilities. Productive 5 hours a day."
+                "statement": "Basic understanding of React and abilities. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             },
             "mid": {
                 "value": 1000,
-                "statement": "Basic understanding of React and abilities; can build a component. Productive 5 hours a day."
+                "statement": "Basic understanding of React and abilities. |Can build a component. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             },
             "high": {
                 "value": 1100,
-                "statement": "Basic understanding of React and abilities; can build an app. Productive 5 hours a day."
+                "statement": "Basic understanding of React and abilities. |Can build an app. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "mid_level": {
             "low": {
                 "value": 2800,
-                "statement": "Mid-Level understanding of React and abilities; can build an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of React and abilities. |Can build an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 3000,
-                "statement": "Mid-Level understanding of React and abilities; can build & maintain an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of React and abilities. |Can build & maintain an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 3200,
-                "statement": "Mid-Level understanding of React and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of React and abilities. |Can build, maintain, and debug an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "senior": {
             "low": {
                 "value": 6800,
-                "statement": "Senior understanding of React and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
+                "statement": "Senior understanding of React and abilities. |Can build, maintain, and debug an app, and supervise mid-levels. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             },
             "mid": {
                 "value": 7000,
-                "statement": "Senior understanding of React and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of React and abilities. |Can build, maintain, and debug an app, and supervise mid-levels as well as juniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 7200,
-                "statement": "Senior understanding of React and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of React and abilities. |Can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
        }
     },
@@ -53,49 +53,49 @@
         "intern": {
             "none": {
                 "value": 500,
-                "statement": "Very basic understanding of Node.js and ability to build an app. Productive 3 hours a day."
+                "statement": "Very basic understanding of Node.js and ability to build an app. |Productive 3 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "junior": {
             "low": {
                 "value": 900,
-                "statement": "Basic understanding of Node.js and abilities. Productive 5 hours a day."
+                "statement": "Basic understanding of Node.js and abilities. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 1000,
-                "statement": "Basic understanding of Node.js and abilities; can build a component. Productive 5 hours a day."
+                "statement": "Basic understanding of Node.js and abilities. |Can build a component. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 1100,
-                "statement": "Basic understanding of Node.js and abilities; can build an app. Productive 5 hours a day."
+                "statement": "Basic understanding of Node.js and abilities. |Can build an app. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "mid_level": {
             "low": {
                 "value": 2800,
-                "statement": "Mid-Level understanding of Node.js and abilities; can build an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of Node.js and abilities. |Can build an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 3000,
-                "statement": "Mid-Level understanding of Node.js and abilities; can build & maintain an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of Node.js and abilities. |Can build & maintain an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 3200,
-                "statement": "Mid-Level understanding of Node.js and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of Node.js and abilities. |Can build, maintain, and debug an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "senior": {
             "low": {
                 "value": 6800,
-                "statement": "Senior understanding of Node.js and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
+                "statement": "Senior understanding of Node.js and abilities. |Can build, maintain, and debug an app, and supervise mid-levels. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             },
             "mid": {
                 "value": 7000,
-                "statement": "Senior understanding of Node.js and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of Node.js and abilities. |Can build, maintain, and debug an app, and supervise mid-levels as well as juniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 7200,
-                "statement": "Senior understanding of Node.js and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of Node.js and abilities. |Can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
        }
     },
@@ -103,49 +103,49 @@
         "intern": {
             "none": {
                 "value": 500,
-                "statement": "Very basic understanding of CSS and ability to build an app. Productive 3 hours a day."
+                "statement": "Very basic understanding of CSS and ability to build an app. |Productive 3 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "junior": {
             "low": {
                 "value": 900,
-                "statement": "Basic understanding of CSS and abilities. Productive 5 hours a day."
+                "statement": "Basic understanding of CSS and abilities. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             },
             "mid": {
                 "value": 1000,
-                "statement": "Basic understanding of CSS and abilities; can build a component. Productive 5 hours a day."
+                "statement": "Basic understanding of CSS and abilities. |Can build a component. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 1100,
-                "statement": "Basic understanding of CSS and abilities; can build an app. Productive 5 hours a day."
+                "statement": "Basic understanding of CSS and abilities. |Can build an app. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "mid_level": {
             "low": {
                 "value": 2800,
-                "statement": "Mid-Level understanding of CSS and abilities; can build an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of CSS and abilities. |Can build an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 3000,
-                "statement": "Mid-Level understanding of CSS and abilities; can build & maintain an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of CSS and abilities. |Can build & maintain an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             },
             "high":{
                 "value": 3200,
-                "statement": "Mid-Level understanding of CSS and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of CSS and abilities. |Can build, maintain, and debug an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "senior": {
             "low": {
                 "value": 6800,
-                "statement": "Senior understanding of CSS and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
+                "statement": "Senior understanding of CSS and abilities. |Can build, maintain, and debug an app, and supervise mid-levels. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 7000,
-                "statement": "Senior understanding of CSS and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of CSS and abilities. |Can build, maintain, and debug an app, and supervise mid-levels as well as juniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 7200,
-                "statement": "Senior understanding of CSS and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of CSS and abilities. |Can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
        }
     },
@@ -153,49 +153,49 @@
         "intern": {
             "none": {
                 "value": 500,
-                "statement": "Very basic understanding of Angular and ability to build an app. Productive 3 hours a day."
+                "statement": "Very basic understanding of Angular and ability to build an app. |Productive 3 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "junior": {
             "low": {
                 "value": 900,
-                "statement": "Basic understanding of Angular and abilities. Productive 5 hours a day."
+                "statement": "Basic understanding of Angular and abilities. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 1000,
-                "statement": "Basic understanding of Angular and abilities; can build a component. Productive 5 hours a day."
+                "statement": "Basic understanding of Angular and abilities. |Can build a component. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 1100,
-                "statement": "Basic understanding of Angular and abilities; can build an app. Productive 5 hours a day."
+                "statement": "Basic understanding of Angular and abilities. |Can build an app. |Productive 5 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "mid_level": {
             "low": {
                 "value": 2800,
-                "statement": "Mid-Level understanding of Angular and abilities; can build an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of Angular and abilities. |Can build an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 3000,
-                "statement": "Mid-Level understanding of Angular and abilities; can build & maintain an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of Angular and abilities. |Can build & maintain an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 3200,
-                "statement": "Mid-Level understanding of Angular and abilities; can build, maintain, and debug an app. Productive 7 hours a day."
+                "statement": "Mid-Level understanding of Angular and abilities. |Can build, maintain, and debug an app. |Productive 7 hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
         },
         "senior": {
             "low": {
                 "value": 6800,
-                "statement": "Senior understanding of Angular and abilities; can build, maintain, and debug an app, and supervise mid-levels. Productive 8 or more hours a day."
+                "statement": "Senior understanding of Angular and abilities. |Can build, maintain, and debug an app, and supervise mid-levels. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "mid": {
                 "value": 7000,
-                "statement": "Senior understanding of Angular and abilities; can build, maintain, and debug an app, and supervise mid-levels as well as juniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of Angular and abilities. |Can build, maintain, and debug an app, and supervise mid-levels as well as juniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge." 
             },
             "high":{
                 "value": 7200,
-                "statement": "Senior understanding of Angular and abilities; can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. Productive 8 or more hours a day."
+                "statement": "Senior understanding of Angular and abilities. |Can build, maintain, and debug an app, and supervise mid-levels, juniors, and other seniors. |Productive 8 or more hours a day. |Lucas ipsum dolor sit amet zabrak solo organa skywalker solo vader coruscant ewok leia lando. |Leia luke kessel wedge gonk mara obi-wan darth fett. |Baba ventress tatooine r2-d2. |Grievous c-3p0 amidala grievous moff mandalorians jabba fett wedge."
             }
        }
     }
