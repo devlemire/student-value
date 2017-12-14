@@ -34,10 +34,12 @@ export default class Slider extends Component {
                     <h1 className="top_title">Student Value</h1>
                     <h2 className="value_total">${this.state.value.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")}</h2>
                 </header>
-                {this.state.dataKeys.map(e => [
+                {this.state.dataKeys.map((e, i) => [
                     <Tech tech={data[e]} 
                           techName={e} 
-                          changeVal={this.changeValue}/>
+                          changeVal={this.changeValue}
+                          isFirst={i === 0}
+                          key={e}/>
                 ])} 
             </div>
         )

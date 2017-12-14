@@ -1,22 +1,58 @@
+.SliderReusable {
+    border: 2px solid var(--white);
+    width: calc(80vw + 4px);
+    margin: 0 auto;
+}
+.Tech .labels {
+    width: 80vw;
+    margin: 0 auto;
+    display: flex;
+    background-color: var(--white);
+}
+.Tech .labels .label {
+    padding: 10px 0;
+    width: calc((80vw / 10) * 3);
+    border: 3px solid var(--white);
+    font-family: var(--sans);
+    color: var(--white);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    background-color: var(--black);
+    
+}
+.Tech .labels .inner {
+    border-left-width: 1.5px;
+    border-right-width: 1.5px;
+}
+.Tech .labels .internLabel {
+    width: calc(80vw / 10);
+    border-right-width: 1.5px;
+    border-left-width: 0px;
+}
+.Tech .labels .lastLabel {
+    border-left-width: 1.5px;
+    border-right-width: 0px;
+}
+
+
 .SliderReusable .bar {
     width: 80vw;
     height: 150px;
-    /* border-bottom: 10px solid var(--white); */
     background-color:var(--white);
     margin: 0 auto;
 }
 
 .SliderReusable .slider_bar {
     width: 80vw;
-    height: 20px;
+    height: 25px;
     background-color:var(--white);
     margin: 0 auto;
+    position: relative;
 }
 
 .SliderReusable .bar_block {
     width: calc((80vw / 10));
     height: 150px;
-    /* border: 3px solid var(--white); */
     display: inline-block;
 }
 
@@ -75,9 +111,6 @@
 }
 
 
-
-
-
 /* 
  * Following is from: 
  * https://www.w3schools.com/howto/howto_js_rangeslider.asp
@@ -90,8 +123,8 @@
     -webkit-appearance: none;  /* Override default CSS styles */
     appearance: none;
     width: 100%; /* Full-width */
-    height: 15px; /* Specified height */
-    background: var(--white); /* Grey background */
+    height: 20px; /* Specified height */
+    background: var(--white); /* White background */
     outline: none; /* Remove outline */
     opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
     -webkit-transition: .2s; /* 0.2 seconds transition on hover */
@@ -108,14 +141,93 @@
     -webkit-appearance: none; /* Override default look */
     appearance: none;
     width: calc((80vw / 10)); /* Set a specific slider handle width */
-    height: 10px; /* Slider handle height */
-    background: var(--black); /* Green background */
+    height: 15px; /* Slider handle height */
+    background: var(--black); /* Black background */
     cursor: pointer; /* Cursor on hover */
 }
 
 .slider::-moz-range-thumb {
     width: 25px; /* Set a specific slider handle width */
     height: 25px; /* Slider handle height */
-    background: var(--black); /* Green background */
+    background: var(--black); /* Black background */
     cursor: pointer; /* Cursor on hover */
 }
+
+/*
+ * END OF https://www.w3schools.com/howto/howto_js_rangeslider.asp 
+ */
+
+.SliderReusable .instructionModal {
+    position: absolute;
+    top: -250px;
+    left: calc(36vw - 150px);
+    z-index: 2;
+}
+
+#talkbubble {
+    width: 300px;
+    height: 235px;
+    background: var(--darkblue);
+    position: relative;
+    padding-top: 10px;
+}
+#talkbubble p {
+    background-color: var(--white);
+    font-family: var(--sans);
+    color: var(--black);
+    letter-spacing: 0.1em;
+    text-transform: none;
+    margin: 0 auto;
+    font-size: 1rem;
+    width: 280px;
+    height: 215px;
+    padding: 40px 20px 20px 20px;
+}
+
+#talkbubble .closeModal {
+    background-color: var(--white);
+    font-family: var(--sans);
+    color: var(--blue);
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin: 20px auto 0 auto;
+    font-size: 1rem;
+    width: 100px;
+    height: auto;
+    padding: 5px; 
+    border: 2px solid var(--blue);
+    cursor: pointer;
+}
+#talkbubble .closeModal:hover {
+    background-color: var(--blue);
+    color: var(--black);
+}
+#talkbubble:before {
+    content:"";
+    position: absolute;
+    right: calc(50% - 13px);
+    top: 235px;
+    width: 0;
+    height: 0;
+    border-left: 13px solid transparent;
+    border-top: 26px solid var(--darkblue);
+    border-right: 13px solid transparent;
+}
+
+#functionalityDisable {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: var(--white);
+    opacity: 0.6;
+
+}
+
+
+
+
+/*
+ * Following is from CSS Tricks: CSS Shapes.
+ */

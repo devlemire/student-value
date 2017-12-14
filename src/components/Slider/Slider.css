@@ -5,13 +5,11 @@
 }
 
 #Slider {
-    min-height: 100vw;
+    min-height: 100vh;
     background-color: var(--white);
-    padding: 50px;
-    /* display: flex;
-    flex-wrap: wrap;
-    justify-content: center; */
+    padding-bottom: 50px;
 }
+
 #Slider .top_title {
     font-family: var(--sans);
     color: var(--black);
@@ -19,6 +17,7 @@
     text-transform: uppercase;
     margin-bottom: 20px;
     font-size: 2rem;
+    padding: 50px 0 0 0;
 }
 
 #Slider .value_total {
@@ -36,4 +35,5 @@
     left: 0;
     background-color: var(--white);
     z-index: 3;
+     padding-bottom: 20px; 
 }

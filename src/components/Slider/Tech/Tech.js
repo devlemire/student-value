@@ -21,7 +21,8 @@ export default class Tech extends Component {
                 "98": "senior|low",
                 "112": "senior|mid",
                 "126": "senior|high"
-            }
+            },
+            seenInstructions: false
         }
 
         this.changeLevel = this.changeLevel.bind(this)
@@ -44,22 +45,27 @@ export default class Tech extends Component {
 
     render(){
         return(
-            <div className="Tech">
+            <div className={`Tech`}>
                 <h1 className="title">{this.props.techName}</h1>
-                <div className="labels">
-                    <div className="label internLabel">Intern</div>
-                    <div className="label inner">Junior</div>
-                    <div className="label inner">Mid Level</div>
-                    <div className="label lastLabel">Senior</div>
-                </div>
-                <Slider tech={this.props.tech} changeLevel={this.changeLevel}/>
+                
+                <Slider tech={this.props.tech} changeLevel={this.changeLevel} isFirst={this.props.isFirst} />
                 <div className="statement">
-                    <h1>{this.state.level.split('_').join(' ')}</h1>
                     {
-                        this.state.subLevel &&
-                        <h2>Rank: {this.state.subLevel}</h2>
+                        this.state.subLevel ?
+
+                        <div>
+                            <h1>{this.state.level.split('_').join(' ')}</h1>
+                            <h2>Rank: {this.state.subLevel}</h2>
+                            <p>{this.state.statement}</p>
+                        </div>
+
+                        :
+
+                        <div>
+                            <h1>Move the slider to choose a skill level.</h1>
+                        </div>
                     }
-                    <p>{this.state.statement}</p>
+                    
                 </div>
             </div>
         )
